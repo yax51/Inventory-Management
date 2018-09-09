@@ -10,8 +10,7 @@ namespace C968_Software_1
     public class Product
     {
         public int productID;
-        ArrayList<Part> = new ArrayList<Part>;
-        
+              
 
        
     }
