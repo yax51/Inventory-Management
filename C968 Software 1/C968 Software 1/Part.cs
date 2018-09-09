@@ -16,8 +16,6 @@ namespace C968_Software_1
         public int min;
         public int max;
 
-        public Part() { }
-
         public int PartID { get; set; }
         public string Name { get; set; }
         public double Price { get; set; }
